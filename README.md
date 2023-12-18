@@ -5,6 +5,7 @@
 ### with this selenium app, you can just do nothing and win!! the programm goes and clicks 70 times(superhuman!)
 
 - NOTE (you have to download the chromedriver and put in the same directory of the program)
+- This programm uses selenium bot. so sometimes, internet connection and the website situation prevents the bot from working. be aware
 
 #### the website ↓↓↓↓↓
 ![Screenshot (142)](https://github.com/artinmohajeri/Click-Speed-Test-Selenium/assets/95845593/401d1402-6991-4438-85a8-35d458376bf3)
